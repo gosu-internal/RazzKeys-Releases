@@ -1,0 +1,9 @@
+{
+  "versionCode": 100011,
+  "versionName": "0.3.11",
+  "apkUrl": "https://raw.githubusercontent.com/gosu-internal/RazzKeys-Releases/main/razzkeys-latest.apk",
+  "sha256": "df7918c4a16871200c857f500dc2e100211eaa24ec389886c6337bb4e2c62bc4",
+  "byteSize": 2889384,
+  "releaseNotes": "Preserve language metadata in Float inserts",
+  "publishedAt": "2026-08-22T05:06:15Z"
+}
