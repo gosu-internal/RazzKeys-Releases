@@ -1,0 +1,9 @@
+{
+  "versionCode": 100025,
+  "versionName": "0.3.25",
+  "apkUrl": "https://raw.githubusercontent.com/gosu-internal/RazzKeys-Releases/main/razzkeys-latest.apk",
+  "sha256": "4715dcaf7f181fd83d9b407ebe3b67feea3c1e28165e122717b69c78f50e054e",
+  "byteSize": 3069612,
+  "releaseNotes": "Move to Scribe v3 and Claude 5.5; recover dropped live takes through batch",
+  "publishedAt": "2026-11-18T21:54:47Z"
+}
